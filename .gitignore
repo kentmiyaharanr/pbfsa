@@ -1,0 +1,7 @@
+__pycache__
+dbreset.sh
+db.sqlite3
+meal/migrations
+meal/results*
+meal/management/commands/credential/*
+meal/management/commands/csv/*
